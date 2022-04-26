@@ -1,5 +1,4 @@
-Hotel & Restaurant – Natural Language Processing
-By: Li Sun
+# Hotel & Restaurant – Natural Language Processing
 
 **Abstract**
 The goal of this project is to use natural language processing (NLP) algorithms to: 1. construct Topic Modeling, 2. Conduct Sentiment Analysis, 3) and build a Recommender Engine for Hotels and Restaurants on TripAdvisor and Zomato. Working with hotel and restaurant review data, I used Non-negative Matrix Factorization to conduct my topic modeling. I used VADER to conduct sentiment analysis, and I TF-IDFI with Cosign-Similarity Matrix to build the Recommender Engine.
