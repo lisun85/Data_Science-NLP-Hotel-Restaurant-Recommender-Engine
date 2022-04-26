@@ -24,6 +24,7 @@ Topic Modeling:
 	TF-IDF with NMF – After several tuning, 4 topics surfaced and are well defined
 
 Sentiment Analysis: 
+
 	NLTK VADER – Using VADER, I was able to detect the sentiment from each hotel review and compartmentalize them to three categories: POSTIVE, NEGATIVE, and NEUTRAL
 
 Recommender Engine:
