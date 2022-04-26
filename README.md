@@ -18,13 +18,18 @@ Data is pulled directly from Kaggle. There are two datasets. First data set is h
 Algorithms
 
 Topic Modeling:
-	Count-Vectorizer with LSA – Topics were not that well defined even after tuning. 
+
+	Count-Vectorizer with LSA – Topics were not that well defined even after tuning
+
 	TF-IDF with NMF – After several tuning, 4 topics surfaced and are well defined
+
 Sentiment Analysis: 
 	NLTK VADER – Using VADER, I was able to detect the sentiment from each hotel review and compartmentalize them to three categories: POSTIVE, NEGATIVE, and NEUTRAL
 
 Recommender Engine:
+
 	Engine 1 (TF IDF + Topic Modeling) – Conducted topic modeling first then used Cosine distance to generate recommendation. Results from recommendation engine is okay, but not great.
+
 	Engine 2 (TF IDF + Cosine Similarity Matrix) – After creating a TF-IDF matrix, I built a Cosine Similarity Matrix, and generated recommendation based on Cosine distance. Recommended result was great. Cafés would recommend other similar cafés. Bakeries would recommend other bakeries and desert places. Fast food recommended other fast food joints. 
 
 Tools
