@@ -7,7 +7,9 @@ The goal of this project is to use natural language processing (NLP) algorithms 
 Design
 
 Hotels and restaurants are service-oriented industries that proves to be very competitive. The one element that significantly impacts the industry is user reviews. Positive reviews written on websites like Trip Advisor or Zomato will lead to more business, while negative reviews can severely damage the hotel or restaurant’s reputation. Reviews gathered from hotels and restaurants are rich datasets that if mined and analyzed correctly can yield important business insights. So, the problem we are trying to solve today is: 
-1. From the hotel reviews, how do find main topics among all reviews + how positive or negative are the reviews? 2. From the restaurant reviews, how do we build a recommender engine so that users can pick similar restaurants. 
+1. From the hotel reviews, how do find main topics among all reviews + how positive or negative are the reviews? 
+2. From the restaurant reviews, how do we build a recommender engine so that users can pick similar restaurants. 
+
 
 Data
 
